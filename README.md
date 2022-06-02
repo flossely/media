@@ -1,2 +1,2 @@
-# media
+# Media
 Media resources packages.
